@@ -1,0 +1,534 @@
+# Webalizer V2.23-08 Incremental Data - 08/26/2021 00:33:15
+2021 8 26 0 33 15
+3367 1485 1 112 41 54 230807835 479 119 0
+1 44 1361 1 26
+17 3 1985166 1 3 3
+18 5 3967392 1 5 1
+20 5 4958799 1 6 6
+27 6 5950990 1 7 3
+20 8 7932040 1 8 3
+26 4 3968568 1 7 4
+41 17 16854311 1 20 10
+31 9 8925015 1 10 5
+22 4 3968176 1 5 4
+22 6 5950206 1 7 4
+37 9 8924555 1 19 8
+28 8 6942397 1 8 5
+292 18 17892246 1 95 5
+31 11 10907241 1 11 6
+25 8 7933020 1 8 5
+25 4 3968388 1 7 5
+26 7 5950794 1 8 4
+299 85 14416437 1 22 7
+217 100 3609562 1 23 2
+59 26 575950 1 17 5
+28 5 36049 1 7 4
+19 2 18384 1 2 1
+103 44 1879034 1 17 5
+126 55 3036306 1 8 5
+1764 1000 78048596 1 143 8
+44 36 2208213 1 6 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+201 113 55905501 91
+26 19 14899445 20
+33 16 3265320 8
+49 4 2006294 5
+11 7 5949307 9
+3 2 1982618 2
+64 8 7940272 10
+6 4 3965040 5
+4 2 1982814 2
+48 2 1991242 3
+57 25 1913111 4
+435 177 14774515 31
+60 7 6948081 12
+10 2 1983598 4
+34 13 4086330 8
+196 72 5032316 24
+1370 813 70247286 127
+171 62 5881232 9
+158 56 4700825 8
+4 2 999330 2
+8 5 3972958 5
+87 36 4183609 6
+291 36 6179774 82
+41 2 17017 2
+0
+0
+0
+1485
+0
+0
+0
+0
+0
+4
+0
+2
+10
+0
+444
+0
+0
+0
+0
+0
+0
+1421
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+# -urls- 
+/detail/js/jquery-3.3.1.min.js
+0 2 94087174234768 173852 0 0
+/images/call-icon.png
+1 47 94087174226624 58752 0 0
+/images/about.png
+1 36 94087174231872 3227900 0 0
+/admin/icons/line-awesome/css/line-awesome.min.css
+0 3 94087174249776 269187 0 0
+/detail/js/bootstrap.min.js
+0 2 94087174247712 116144 0 0
+/js/jquery.min.js
+0 31 94087174231760 1915936 0 0
+/admin/vendor/datatables/css/jquery.dataTables.min.css
+0 2 94087174253360 27800 0 0
+/admin/vendor/apexchart/apexchart.js
+0 2 94087174253104 917994 0 0
+/admin/vendor/animate/animate.min.css
+0 3 94087174249648 173841 0 0
+/admin/icons/font-awesome-old/css/font-awesome.min.css
+0 3 94087174248976 93072 0 0
+/admin/vendor/perfect-scrollbar/css/perfect-scrollbar.css
+0 3 0 5457 0 0
+/detail/js/main.js
+0 2 94087174247632 1358 0 0
+/login.php
+0 4 94087174232208 11686 0 0
+/admin/vendor/chart.js/Chart.bundle.min.js
+0 2 94087174252960 420048 0 0
+/login/js/main.js
+0 5 94087174232800 2068 0 0
+/admin/js/plugins-init/sweetalert.init.js
+0 4 94087174233056 10840 0 0
+/admin/vendor/peity/jquery.peity.min.js
+0 2 94087174252016 7430 0 0
+/admin/images/like.png
+1 2 94087174252384 15440 0 0
+/form/images/111.png
+1 2 94087174247840 9074 0 0
+/admin/icons/themify-icons/css/themify-icons.css
+0 3 94087174249920 41574 0 0
+/login/css/style.css
+0 5 94087174233312 892952 0 0
+/admin/vendor/datatables/images/sort_both.png
+1 2 94087174254192 2174 0 0
+/admin/user/gambar/554-Teknologi Informasi.jpg
+1 1 94087174258288 3164072 0 0
+/admin/js/custom.min.js
+0 3 94087174248416 17799 0 0
+/js/jquery-3.0.0.min.js
+0 31 94087174231376 249128 0 0
+/admin/warga/data_warga.php
+0 4 94087174253232 55595 0 0
+/images/banner-bg.png
+1 67 94087174219728 28142400 0 0
+/admin/halaman_admin.php
+0 3 94087174250784 53271 0 0
+/admin/icons/font-awesome-old/fonts/fontawesome-webfont3e6e.woff2
+0 2 0 154320 0 0
+/css/slick.css
+0 50 0 64056 0 0
+/images/map-icon.png
+1 46 0 50184 0 0
+/images/about-bg.jpg
+1 50 94087174231984 5212136 0 0
+/admin/halaman_rt.php
+0 1 94087174254608 11482 0 0
+/admin/user/gambar/232-5ff095c213697.jpg
+1 1 94087174257904 264270 0 0
+/images/logo.png
+1 49 0 167002 0 0
+/images/about-bg.png
+1 10 0 283365 0 0
+/admin/pak_rt/data_rt.php
+0 1 94087174256784 15323 0 0
+/js/plugins-init/sweetalert.init.js
+0 13 0 21680 0 0
+/admin/icons/flaticon/flaticon.css
+0 3 94087174249520 53871 0 0
+/detail/js/popper.min.js
+0 2 94087174234896 42006 0 0
+/admin/dusun/data_dusun.php
+0 1 94087174254960 12129 0 0
+/admin/vendor/metismenu/css/metisMenu.min.css
+0 3 94087174250512 6414 0 0
+/images/fb-icon.png
+1 46 0 53040 0 0
+/admin/vendor/datatables/images/sort_asc.png
+1 2 94087174254464 2046 0 0
+/admin/
+0 7 94087174248208 20797 0 1
+/admin/vendor/sweetalert2/dist/sweetalert2.min.css
+0 4 94087174232320 108372 0 0
+/admin/vendor/bootstrap-select/dist/js/bootstrap-select.min.js
+0 2 0 101180 0 0
+/login/js/popper.js
+0 5 94087174232560 84012 0 0
+/detail/css/bootstrap.min.css
+0 2 94087174247952 433450 0 0
+/css/style.css
+0 54 0 425052 0 0
+/admin/vendor/datatables/images/sort_desc.png
+1 1 94087174254816 1020 0 0
+/js/popper.min.js
+0 31 94087174231216 422180 0 0
+/detail.php
+0 2 94087174233904 9584 0 0
+/admin/js/deznav-init.js
+0 3 94087174248608 2817 0 0
+/admin/icons/avasta/css/style.css
+0 3 94087174249216 18711 0 0
+/admin/icons/flaticon/Flaticon.woff
+0 2 94087174252144 103440 0 0
+/admin/pak_rt/gambar/394-2.png
+1 1 94087174256912 63470 0 0
+/admin/vendor/aos/css/aos.min.css
+0 3 94087174250384 86295 0 0
+/images/tablet-img.png
+1 9 0 3487648 0 0
+/css/bootstrap.min.css
+0 50 0 4493472 0 0
+/admin/vendor/owl-carousel/owl.carousel.css
+0 2 94087174251312 6936 0 0
+/admin/icons/material-design-iconic-font/css/materialdesignicons.min.css
+0 3 94087174249344 316716 0 0
+/css/animate.min.css
+0 51 0 1878730 0 0
+/css/meanmenu.css
+0 50 0 124542 0 0
+/admin/images/dots2.png
+1 2 94087174252496 942 0 0
+/login/js/jquery.min.js
+0 5 94087174233200 352576 0 0
+/detail/fonts/icomoon/style.css
+0 2 94087174234640 159640 0 0
+/detail/images/banner-bg.png
+1 2 94087174248080 1082400 0 0
+/login/js/bootstrap.min.js
+0 5 94087174232672 232288 0 0
+/admin/vendor/bootstrap-select/dist/css/bootstrap-select.min.css
+0 2 0 21406 0 0
+/detail/css/owl.carousel.min.css
+0 2 94087174234304 6702 0 0
+/admin/berkas/data_berkas.php
+0 1 94087174257280 12881 0 0
+/css/owl.carousel.min.css
+0 51 0 113680 0 0
+/admin/images/logo.png
+1 2 94087174252848 234294 0 0
+/images/mail-icon.png
+1 46 0 48008 0 0
+/admin/berkas/gambar/198-5ff095c213697.jpg
+1 1 94087174257520 264270 0 0
+/css/jquery-ui.css
+0 51 0 1259055 0 0
+/admin/user/gambar/115-Screenshot 2021-02-28 080245.png
+1 1 94087174258144 1107173 0 0
+/
+0 311 0 137663748 107 104
+/images/banner-img1.png
+1 49 0 4858380 0 0
+/admin/pak_rt/gambar/888-5ff095c213697.jpg
+1 1 94087174257136 264270 0 0
+/admin/images/logo-text.png
+1 2 94087174251456 2488 0 0
+/registrations.html
+0 1 94087174233424 2822 0 1
+/detail/css/style.css
+0 2 94087174234528 10590 0 0
+/admin/vendor/datatables/js/jquery.dataTables.min.js
+0 2 94087174254048 164802 0 0
+/css/jquery.mCustomScrollbar.min.css
+0 49 0 1370848 0 0
+/vendor/sweetalert2/dist/sweetalert2.min.js
+0 13 0 300800 0 0
+/admin/vendor/chartist/css/chartist.min.css
+0 2 94087174250912 23016 0 0
+/css/nice-select.css
+0 52 0 131508 0 0
+/admin/images/profile/17.jpg
+1 2 94087174251584 1752 0 0
+/admin/js/plugins-init/datatables.init.js
+0 2 94087174253616 9570 0 0
+/images/in-icon.png
+1 47 0 56595 0 0
+/js/jquery.mCustomScrollbar.concat.min.js
+0 31 94087174231616 1000538 0 0
+/vendor/bootstrap-select/dist/css/bootstrap-select.min.css
+0 6 0 32109 0 0
+/admin/vendor/sweetalert2/dist/sweetalert2.min.js
+0 4 94087174232912 150400 0 0
+/admin/images/favicon.png
+1 2 94087174250656 6878 0 0
+/images/instagram-icon.png
+1 46 0 58344 0 0
+/js/plugin.js
+0 33 94087174232096 14254343 0 0
+/images/twitter-icon.png
+1 46 0 53924 0 0
+/admin/vendor/owl-carousel/owl.carousel.js
+0 2 94087174251872 85532 0 0
+/admin/user/data_user.php
+0 1 94087174257776 16038 0 0
+/js/custom.js
+0 38 0 254790 0 0
+/admin/vendor/global/global.min.js
+0 3 94087174248736 655455 0 0
+/admin/icons/simple-line-icons/css/simple-line-icons.css
+0 3 0 31863 0 0
+/admin/js/dashboard/analytics.js
+0 2 94087174252720 11174 0 0
+/css/normalize.css
+0 50 0 250954 0 0
+/admin/css/style.css
+0 3 94087174248864 3101490 0 0
+/css/responsive.css
+0 49 0 354564 0 0
+/sw.html
+0 19 0 7580 1 1
+/vendor/sweetalert2/dist/sweetalert2.min.css
+0 13 0 216744 0 0
+/admin/images/dots.png
+1 2 94087174252608 1496 0 0
+/js/bootstrap.bundle.min.js
+0 31 94087174231488 1557776 0 0
+# End Of Table - urls
+# -sites- (monthly)
+Invalid
+0 3367 1489 230807835 119 1629937989
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+Invalid
+0 44 36 2208213 1 1629937989
+/
+# End Of Table - sites (daily)
+# -referrers- 
+https://ewar.ga/admin/index.php
+0 4
+http://ewar.ga/admin/css/style.css
+0 14
+http://ewar.ga/
+0 632
+https://ewar.ga/admin/warga/data_warga.php
+0 8
+https://ewar.ga/admin/vendor/datatables/css/jquery.dataTables.min.css
+0 3
+http://ewar.ga/login.html
+0 1
+http://ewar.ga/admin/halaman_admin.php
+0 13
+http://ewar.ga/sw.html
+0 72
+http://ewar.ga/admin/berkas/data_berkas.php
+0 3
+http://ewar.ga/admin/dusun/data_dusun.php
+0 4
+https://ewar.ga/admin/css/style.css
+0 25
+http://www.ewar.ga/
+0 40
+http://ewar.ga/admin/icons/font-awesome-old/css/font-awesome.min.css
+0 1
+https://ewar.ga/admin/
+0 11
+https://www.google.com/
+0 2
+- (Direct Request)
+0 1083
+http://www.ewar.ga/css/style.css
+0 13
+http://ewar.ga/admin/warga/data_warga.php
+0 1
+https://ewar.ga/registrations.html
+0 7
+https://ewar.ga/admin/halaman_rt.php
+0 2
+https://ewar.ga/admin/icons/flaticon/flaticon.css
+0 1
+https://ewar.ga/css/style.css
+0 273
+https://ewar.ga/login.php
+0 30
+http://ewar.ga/login.php
+0 10
+http://ewar.ga/css/style.css
+0 160
+https://ewar.ga/
+0 864
+https://ewar.ga/detail.php
+0 11
+https://ewar.ga/admin/icons/font-awesome-old/css/font-awesome.min.css
+0 1
+https://ewar.ga/login.html
+0 2
+http://ewar.ga/admin/pak_rt/data_rt.php
+0 3
+http://ewar.ga/index.php
+0 24
+https://www.netcraft.com/survey/
+0 2
+http://ewar.ga/admin/vendor/datatables/css/jquery.dataTables.min.css
+0 2
+https://ewar.ga/index.php
+0 5
+http://ewar.ga/detail.php
+0 10
+https://ewar.ga/admin/halaman_admin.php
+0 17
+https://ewar.ga/dev
+0 1
+http://ewar.ga/admin/
+0 7
+http://ewar.ga/admin/user/data_user.php
+0 3
+http://ewar.ga/admin/icons/flaticon/flaticon.css
+0 1
+http://www.google.com.hk
+0 1
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36
+0 16
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0
+0 7
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+0 13
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_7_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Mobile/15E14
+0 55
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36
+0 8
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 2
+Mozilla/4.0 (compatible; Netcraft Web Server Survey)
+0 2
+Mozilla/5.0 (compatible; intelx.io_bot +https://intelx.io)
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko; compatible; BW/1.1; bit.ly/2W6Px8S) Chrome/8
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36 OPR/54.0.2952.64
+0 1
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; fr; rv:1.9.2.8) Gecko/20100722 Firefox/3.6.8
+0 2
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/93.0.4577.0 Safari/537.36
+0 35
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.119 Mobile 
+0 28
+Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Mobile Saf
+0 58
+python-requests/2.26.0
+0 9
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0
+0 35
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 40
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36
+0 2
+python-requests/2.23.0
+0 1
+Go-http-client/1.1
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
+0 39
+Googlebot-Image/1.0
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+0 420
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:77.0) Gecko/20100101 Firefox/77.0
+0 3
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36
+0 128
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36 Edg/92.0.
+0 189
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+0 1
+Chrome/54.0 (Windows NT 10.0)
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0
+0 2
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+0 4
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
+0 38
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
+0 1062
+Cpanel-HTTP-Client/1.0
+0 356
+python-requests/2.25.1
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.47 Safari/537.36
+0 1
+Mozilla/5.0 (Linux; Android 9; Redmi 6A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.99 Mobile Safari/537.36
+0 1
+WhatsApp/2.21.14.24 A
+0 1
+ScamadviserExternalHit/1.0
+0 3
+Expanse, a Palo Alto Networks company, searches across the global IPv4 space multiple times per day to identify customers&#39
+0 18
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727)
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:59.0) Gecko/20100101 Firefox/59.0
+0 2
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 18
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.75 Safari/537.36 Google Favicon
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36
+0 3
+python-requests/2.6.0 CPython/2.7.5 Linux/3.10.0-1160.31.1.el7.x86_64
+0 3
+Mozilla/5.0 (Linux; Android 10; M2003J15SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.152 Mobile Safari/537.36
+0 151
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0
+0 18
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/92.0.4515.90 Mobile/15E
+0 36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+0 253
+Mozilla/5.0 (Linux; U; Android 9; en-us; Redmi Note 5 Build/PKQ1.180904.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4
+0 236
+NetSystemsResearch studies the availability of various services across the internet. Our website is netsystemsresearch.com
+0 8
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.152 Safari/537.36
+0 15
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/92.0.45
+0 29
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
